@@ -1,3 +1,17 @@
 .app {
-  
+	
+	.header {
+	}
+
+	.board {
+	}
+
+	.tile {
+		&--hidden {
+		}
+		&--visible {
+		}
+		&--flagged {
+		}
+	}
 }
